@@ -1,0 +1,59 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: radial-gradient(#024059, #052735);
+    color: white;
+}
+
+.block{
+    width: 100%;
+    max-width: 400px;
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #062330;
+    padding: 20px 0 5px 0;
+}
+
+h1{
+    align-self: center;
+}
+
+input{
+    margin-bottom: 15px;
+    margin-top: 5px;
+    width: 95%;
+    max-width: 200px;
+}
+
+#btResposta{
+    border-radius: 5px;
+    background: none;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: 1px solid white;
+    cursor: pointer;
+    margin: 0px;
+    margin-top: 10px;
+}
+
+#btResposta:hover{
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 0.5rem 0.2rem #024059;
+}
+
+.aviso{
+    display: block;
+    color: #c0c0c0;
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+#resposta{
+    margin: 0;
+    margin-top: 25px;
+}
