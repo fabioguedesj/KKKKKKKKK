@@ -27,7 +27,7 @@ O KKKKKKKKK faz basicamente o seguinte:
 Codepen: https://codepen.io/fabioguedesj/pen/WNEREqN
 
 <p align="center">
-    <img alt="Preview KKKKKKKKK" src="preview/KKKKKKKK" width="400px">
+    <img alt="Preview KKKKKKKKK" src="preview/KKKKKKKK.jpg" width="400px">
 </p>
 
 ## V2
